@@ -1,5 +1,7 @@
-# Node modules
-node_modules/
+
+# Ignore all node_modules in any folder
+**/node_modules/
+
 
 # Log files
 npm-debug.log*
